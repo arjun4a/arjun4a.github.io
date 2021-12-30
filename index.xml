@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arjun A</title>
-    <link>http://www.example.com/</link>
+    <link>https://arjun4.github.io/</link>
     <description>Recent content on Arjun A</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Dec 2021 16:19:57 +0530</lastBuildDate><atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Dec 2021 16:19:57 +0530</lastBuildDate><atom:link href="https://arjun4.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://www.example.com/posts/my-first-post/</link>
+      <link>https://arjun4.github.io/posts/my-first-post/</link>
       <pubDate>Wed, 29 Dec 2021 16:19:57 +0530</pubDate>
       
-      <guid>http://www.example.com/posts/my-first-post/</guid>
+      <guid>https://arjun4.github.io/posts/my-first-post/</guid>
       <description></description>
     </item>
     
